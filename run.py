@@ -1,7 +1,6 @@
 from util.File import convert_path, load, save
 from util.Image import transf
 from util.Convert import result
-import argparse
 import os
 
 PATH_IMG = "./img/"
